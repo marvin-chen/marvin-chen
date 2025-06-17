@@ -54,14 +54,16 @@
 
 ---
 
+
+
+
+<!--
 ### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/marvin-chen/marvin-chen/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
-
-<!--
 **marvin-chen/marvin-chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
