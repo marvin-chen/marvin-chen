@@ -57,18 +57,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marvin-chen&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvin-chen&layout=compact&theme=github_dark"/>
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/marvin-chen/marvin-chen/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 
