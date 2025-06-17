@@ -35,9 +35,6 @@
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat"/>
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat"/>
-  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat"/>
 </p>
 
 #### 🛠️ Dev Tools & Libraries
