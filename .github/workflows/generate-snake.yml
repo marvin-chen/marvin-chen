@@ -16,6 +16,7 @@ jobs:
         with:
           github_user_name: marvin-chen
           svg_out_path: dist/github-contribution-grid-snake.svg
+          lookback: 12
       - name: Commit SVG to repository
         run: |
           git config user.name github-actions
