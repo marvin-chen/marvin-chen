@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hi there 👋, I'm Marvin!</h1>
+<h1 align="center">Hi there, I'm Marvin! 👋 </h1>
 
 ---
 
