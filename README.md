@@ -59,7 +59,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/marvin-chen/marvin-chen/output/github-contribution-grid-snake.svg" />
 </p>
----
 
 
 <!--
